@@ -27,6 +27,8 @@ Entender de forma precisa los conceptos  básicos de la ley de ohm y potencias m
 
 **2.MARCO TEORICO(RESUMEN)**
 
+![image](https://user-images.githubusercontent.com/94098157/142433434-901421cb-89a8-4712-b5f2-584caaa157f3.png)
+
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -47,6 +49,8 @@ Entender de forma precisa los conceptos  básicos de la ley de ohm y potencias m
 ![image](https://user-images.githubusercontent.com/94098157/142407184-7a67dba3-fbc3-4a73-821f-ff5ca8d73cfd.png)
 
 **3.VIDEO**
+
+https://youtu.be/IPoAmvHp2vo
 
 **4.CONCLUSIONES**
 
